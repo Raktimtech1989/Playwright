@@ -38,7 +38,7 @@ pipeline
             steps {
                 catchError(buildResult: 'SUCCESS', stageResult: 'FAILURE') {
                     git 'https://github.com/Raktimtech1989/Playwright.git'
-                    sh "mvn clean install"
+                    sh "mvn clean test"
                     
                 }
             }
