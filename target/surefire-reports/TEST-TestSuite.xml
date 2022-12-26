@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="19.178" tests="13" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="18.022" tests="13" errors="0" skipped="0" failures="1">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/raktimsarkar/eclipse-workspace/PlaywrightFramework/target/surefire/surefirebooter6675811610251977440.jar /Users/raktimsarkar/eclipse-workspace/PlaywrightFramework/target/surefire 2022-12-26T19-35-37_484-jvmRun1 surefire2037670004664375185tmp surefire_04031335890830661055tmp"/>
+    <property name="sun.java.command" value="/Users/raktimsarkar/eclipse-workspace/PlaywrightFramework/target/surefire/surefirebooter5799195453953219057.jar /Users/raktimsarkar/eclipse-workspace/PlaywrightFramework/target/surefire 2022-12-26T23-14-15_637-jvmRun1 surefire3206060553088132330tmp surefire_06018556422947306297tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="surefire.test.class.path" value="/Users/raktimsarkar/eclipse-workspace/PlaywrightFramework/target/test-classes:/Users/raktimsarkar/eclipse-workspace/PlaywrightFramework/target/classes:/Users/raktimsarkar/.m2/repository/com/microsoft/playwright/playwright/1.17.1/playwright-1.17.1.jar:/Users/raktimsarkar/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/Users/raktimsarkar/.m2/repository/com/microsoft/playwright/driver/1.17.1/driver-1.17.1.jar:/Users/raktimsarkar/.m2/repository/com/microsoft/playwright/driver-bundle/1.17.1/driver-bundle-1.17.1.jar:/Users/raktimsarkar/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/raktimsarkar/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/raktimsarkar/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/raktimsarkar/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar:/Users/raktimsarkar/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/raktimsarkar/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/raktimsarkar/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/raktimsarkar/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/raktimsarkar/.m2/repository/io/qameta/allure/allure-testng/2.12.1/allure-testng-2.12.1.jar:/Users/raktimsarkar/.m2/repository/io/qameta/allure/allure-java-commons/2.12.1/allure-java-commons-2.12.1.jar:/Users/raktimsarkar/.m2/repository/io/qameta/allure/allure-model/2.12.1/allure-model-2.12.1.jar:/Users/raktimsarkar/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/raktimsarkar/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar:/Users/raktimsarkar/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar:/Users/raktimsarkar/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar:/Users/raktimsarkar/.m2/repository/org/apache/tika/tika-core/1.20/tika-core-1.20.jar:/Users/raktimsarkar/.m2/repository/org/jooq/joor-java-8/0.9.10/joor-java-8-0.9.10.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/raktimsarkar/eclipse-workspace/PlaywrightFramework/target/surefire/surefirebooter6675811610251977440.jar"/>
+    <property name="surefire.real.class.path" value="/Users/raktimsarkar/eclipse-workspace/PlaywrightFramework/target/surefire/surefirebooter5799195453953219057.jar"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
@@ -61,17 +61,24 @@
     <property name="java.class.version" value="52.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="homePageTitleTest" classname="com.qa.opencart.tests.HomePageTest" time="0.281"/>
-  <testcase name="homePageTitleTest" classname="com.qa.opencart.tests.HomePageTest" time="0.138"/>
-  <testcase name="homePageUrlTest" classname="com.qa.opencart.tests.HomePageTest" time="0.04"/>
-  <testcase name="homePageUrlTest" classname="com.qa.opencart.tests.HomePageTest" time="0.086"/>
-  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="1.137"/>
-  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.455"/>
-  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.41"/>
-  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.748"/>
-  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.883"/>
-  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.704"/>
-  <testcase name="loginpageNavigationTest" classname="com.qa.opencart.tests.LoginPageTest" time="1.302"/>
-  <testcase name="forgotPwdLinkExistsTest" classname="com.qa.opencart.tests.LoginPageTest" time="0.066"/>
-  <testcase name="appLoginTest" classname="com.qa.opencart.tests.LoginPageTest" time="0.813"/>
+  <testcase name="homePageTitleTest" classname="com.qa.opencart.tests.HomePageTest" time="0.198"/>
+  <testcase name="homePageTitleTest" classname="com.qa.opencart.tests.HomePageTest" time="0.029"/>
+  <testcase name="homePageUrlTest" classname="com.qa.opencart.tests.HomePageTest" time="0.004"/>
+  <testcase name="homePageUrlTest" classname="com.qa.opencart.tests.HomePageTest" time="0.137"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.105"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.45"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.542"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.433"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.449"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="0.45"/>
+  <testcase name="loginpageNavigationTest" classname="com.qa.opencart.tests.LoginPageTest" time="1.169"/>
+  <testcase name="forgotPwdLinkExistsTest" classname="com.qa.opencart.tests.LoginPageTest" time="0.065">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at com.qa.opencart.tests.LoginPageTest.forgotPwdLinkExistsTest(LoginPageTest.java:26)
+</failure>
+    <system-out><![CDATA[loginpageNavigationTest passed!
+forgotPwdLinkExistsTest started!
+]]></system-out>
+  </testcase>
+  <testcase name="appLoginTest" classname="com.qa.opencart.tests.LoginPageTest" time="0.858"/>
 </testsuite>
